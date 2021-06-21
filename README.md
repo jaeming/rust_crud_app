@@ -7,6 +7,8 @@ adjust `DATABASE_URL` env var
 
 ### Crud CLI examples:
 
+Look the files in `bin` for an example on Crud, then try it out:
+
 `cargo run --bin write_post`
 
 `cargo run --bin publish_post 1`
